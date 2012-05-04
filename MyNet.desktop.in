@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=MyNet Version 0.1
+Comment=MyNet Version 0.1
+Exec=mynet
+Icon=@PACKAGE_PIXMAPS_DIR@/mynet-icon.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+

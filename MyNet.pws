@@ -1,0 +1,56 @@
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filenumbers]
+0=38
+1=1
+2=1
+3=82
+4=1
+5=141
+6=11
+7=98
+8=1
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+
+[filelist]
+0=/home/cz/Projects/MyNet/src/mdd.h
+1=/home/cz/Projects/MyNet/src/mdd.c
+2=/home/cz/Projects/MyNet/src/md6.c
+3=/home/cz/Projects/MyNet/src/connect.c
+4=/home/cz/Projects/MyNet/src/support.c
+5=/home/cz/Projects/MyNet/src/Mythread.c
+6=/home/cz/Projects/MyNet/src/callbacks.c
+7=/home/cz/Projects/MyNet/src/main.c
+8=/home/cz/Projects/MyNet/src/interface.c
+
+[Project Tree]
+0=0
+1=0:0
+2=0:1
+
+[Symbol Tree]
+0=3
+
+[File Tree]
+0=0
+1=0:3
